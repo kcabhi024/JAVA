@@ -11,7 +11,7 @@ public class Ch16 {
         int num2 = input.nextInt();
 
         System.out.println("Enter in a Operation : ");
-
+        System.out.println("hello world");
         String operation = input.next();
 
         int result = switch (operation) {
