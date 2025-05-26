@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Challange_Question/Challange_Question.iml" filepath="$PROJECT_DIR$/Challange_Question/Challange_Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDayOne/JavaDayOne.iml" filepath="$PROJECT_DIR$/JavaDayOne/JavaDayOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators_Statement/Operators_Statement.iml" filepath="$PROJECT_DIR$/Operators_Statement/Operators_Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables_Array/Variables_Array.iml" filepath="$PROJECT_DIR$/Variables_Array/Variables_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newjava/newjava.iml" filepath="$PROJECT_DIR$/newjava/newjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
