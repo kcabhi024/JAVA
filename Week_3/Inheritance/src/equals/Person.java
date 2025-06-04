@@ -1,5 +1,7 @@
 package equals;
 
+import java.util.Objects;
+
 public class Person {
 
     private String name;
@@ -21,6 +23,11 @@ public class Person {
         return per.name.equals(name)&&
                 per.age ==age &&
         per.id.equals(id);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, age, id);
     }
 
     public String getName() {
