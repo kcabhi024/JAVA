@@ -1,17 +1,13 @@
 package Array;
 
 public class TwoDArrayExample {
-
     /*
     Array of Array
-
      */
     public static void main(String[] args) {
-
 // using math random
-        int num[] [] = new int[3][4];
+        int num[][] = new int[3][4];
         int rand = 0;
-
         for(int i =0; i<3; i++)
         {
             for(int j=0; j<4; j++)
@@ -19,9 +15,7 @@ public class TwoDArrayExample {
                 num[i][j] =(int)(Math.random()*10);
 //                System.out.print(num[i][j]);
             }
-
         }
-
         for(int i =0; i<3; i++)
         {
             for(int j=0; j<4; j++)
